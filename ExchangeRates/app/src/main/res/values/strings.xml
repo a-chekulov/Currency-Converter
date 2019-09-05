@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Курс валют</string>
+    <string name="btn_main_fragment">Главная</string>
+    <string name="btn_convert_fragment">Конвертер</string>
+    <string name="btn_about">О программе</string>
+
+    <string name="tv_fragment_main">Главный фрагмент</string>
+    <string name="tv_fragment_converter">Фрагмент с конвертером</string>
+    <string name="tv_fragment_about">О программе</string>
+    <string name="valute">Валюта</string>
+    <string name="str_converter_from">Из</string>
+    <string name="str_converter_in">В</string>
+    <string name="str_value_converter">Значение</string>
+    <string name="about_app">Developer: Anatoly Chekulov \nВерсия: 1.0.0-alpha01</string>
+    <string name="link_telegram">Anatoly_Chekulov</string>
+    <string name="link_instagram">a.chekulov</string>
+</resources>
